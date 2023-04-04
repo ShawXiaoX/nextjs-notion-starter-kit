@@ -9,8 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'shawXiao's blog',
-  domain: 'xiaox-null',
+  name: 'shawXiao blog',
+  domain: 'xiaox_domain_null',
   author: 'shawXiao',
 
   // open graph metadata (optional)
