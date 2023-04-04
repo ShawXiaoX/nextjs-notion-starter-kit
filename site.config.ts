@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'shawXiao's blog',
-  domain: 'https://nextjs-notion-starter-kit-five-psi.vercel.app/',
+  domain: 'xiaox-null',
   author: 'shawXiao',
 
   // open graph metadata (optional)
